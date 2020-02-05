@@ -11,13 +11,13 @@
 
 
 catalina:
-![](catalina.png)
+![](img/catalina.png)
 电源:
 ![](img/batter.png)
 声卡：
 ![](img/audio.png)
 外接显示器:
-![](img/display.png)
+![](img/display_device.png)
 蓝牙:
 ![](img/bluetooth.png)
 网络：
