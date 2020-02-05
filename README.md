@@ -9,3 +9,5 @@
 ![](img/bluetooth.png)
 网络：
 ![](img/network.png)
+电源变频:
+![](img/power_frequency.png)
