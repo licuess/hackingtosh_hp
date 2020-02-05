@@ -10,6 +10,10 @@
 |有限网卡|RTL8107E|
 
 
+展示：
+![](catalina.png)
+![](display_device.png)
+
 电源:
 ![](img/batter.png)
 声卡：
