@@ -251,6 +251,8 @@
 		<integer>0</integer>
 		<key>#XMPDetection</key>
 		<string>-1</string>
+		<key>Arguments</key>
+		<string>-disablegfxfirmware</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultLoader</key>
@@ -757,6 +759,23 @@
 		<true/>
 		<key>KernelXCPM</key>
 		<false/>
+		<key>KextsToPatch</key>
+		<array>
+			<dict>
+				<key>Comment</key>
+				<string>Disable minStolenSize less or equal fStolenMemorySize assertion, 10.14 Credits (Sniki)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>dkBI/wU=</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>60BI/wU=</data>
+			</dict>
+		</array>
 	</dict>
 	<key>RtVariables</key>
 	<dict>
