@@ -1,5 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-.DS_Store
-.gitignore
-.idea
-.empty
+*.DS_Store
+*.idea
+*.empty
